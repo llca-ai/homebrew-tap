@@ -2,7 +2,7 @@ class Llca < Formula
   desc "Local Ledger for Coding Agents: a private log of what Codex and Claude Code do"
   homepage "https://github.com/llca-ai/llca"
   url "https://github.com/llca-ai/llca/archive/refs/tags/v0.7.6.tar.gz"
-  sha256 "REPLACE_WITH_SHA256"
+  sha256 "8d4a123d61745813c118ad279a0fdb7b66e6e0d16e76b96861c6bee4b05f0b88"
   license "MIT"
   head "https://github.com/llca-ai/llca.git", branch: "main"
 
