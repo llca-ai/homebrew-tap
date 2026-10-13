@@ -4,10 +4,10 @@ Homebrew formula for [llca](https://github.com/llca-ai/llca), the Local Ledger f
 
 ```sh
 brew install llca-ai/tap/llca
-llca init --global --agent all
+llca init --global
 llca doctor
 ```
 
-Upgrade with `brew upgrade llca`, then run `llca init --global --agent all` again.
+Upgrade with `brew upgrade llca`, then run `llca init --global` again.
 
 Issues and questions: [llca-ai/llca](https://github.com/llca-ai/llca/issues).
